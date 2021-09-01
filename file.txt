@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 01 line
 02 line
 03 line(main)
 04 line
 05 line(main)
+=======
+01 line (alterntive)
+02 line
+03 line
+04 line(alterntive)
+05 line 
+>>>>>>> alternative
